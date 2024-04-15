@@ -14,7 +14,6 @@ import boto3
 
 
 
-
 !mkdir ./train
 !mkdir ./test
 
